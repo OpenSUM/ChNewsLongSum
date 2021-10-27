@@ -1,0 +1,54 @@
+{
+  "batch_size": 5,
+  "epochs": 100,
+  "encoder_seq_length": 120,
+  "decoder_seq_length": 28,
+  "encoder_output_size": 768,
+  "bert_learning_rate": 5e-5,
+  "other_learning_rate": 0.001,
+  "theta": 0.99,
+
+  "gradual_unfreezing": false,
+  "discriminative_fine_tuning": false,
+
+  "pointer_initializer": "xavier",
+  "use_pointer": true,
+
+  "encoder_trainable_layers": -1,
+  "trainable_layers": -1,
+  "embedding_trainable": true,
+  "pooler_layer_trainable": false,
+  "masked_layer_trainable": false,
+  "attention_layer_trainable": true,
+
+  "train_src": "./data/lcsts/output/train.src",
+  "train_dst": "./data/lcsts/output/train.dst",
+  "eval_src": "./data/lcsts/output/train.src",
+  "eval_dst": "./data/lcsts/output/train.dst",
+  "test_src": "./data/lcsts/output/train.src",
+  "test_dst": "./data/lcsts/output/train.dst",
+
+  "init_checkpoint": "./bert/checkpoints/bert_model.ckpt",
+  "vocab_file": "./bert/vocab.txt",
+
+  "attention_probs_dropout_prob": 0.1,
+  "directionality": "bidi",
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+
+  "num_hidden_layers": 2,
+  "hidden_layers_filter": [0, 11],
+
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "type_vocab_size": 2,
+  "vocab_size": 21128
+}

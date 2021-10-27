@@ -1,0 +1,9 @@
+nohup: ignoring input
+srun: job 12234 queued and waiting for resources
+srun: job 12235 queued and waiting for resources
+srun: job 12236 queued and waiting for resources
+srun: job 12237 queued and waiting for resources
+srun: job 12234 has been allocated resources
+srun: job 12235 has been allocated resources
+srun: job 12236 has been allocated resources
+srun: job 12237 has been allocated resources

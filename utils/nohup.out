@@ -1,0 +1,123 @@
+Calcing Rouge Scores...
+Converting files in ../experiments/checkpoint_2019-12-04-16-06-08/summary
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-5
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-13
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-36
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-36
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-22
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-22
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-15
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-31
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-26
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-35
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-16
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-27
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/ref_eval
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-9
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-8
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-24
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-10
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-5
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-17
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/ref_test
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-15
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-8
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-33
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-2
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-6
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-30
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-34
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-18
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-3
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-11
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-28
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-29
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-20
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-28
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-14
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-21
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-25
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-33
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-9
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-14
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-30
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-2
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-4
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-17
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-1
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-1
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-25
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/source_eval
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-0
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-32
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-16
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-10
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-19
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-0
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-4
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-11
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-21
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-3
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-35
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-29
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-7
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-6
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-24
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-12
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-23
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/source_test
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-12
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-20
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-18
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-27
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-19
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-23
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-31
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-34
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_eval_best-32
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-26
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-7
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-13
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_test_best-0
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_eval_best-0
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_test_best-1
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_eval_best-1
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_test_best-2
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_eval_best-2
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_test_best-3
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_eval_best-3
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_test_best-4
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_eval_best-4
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_test_best-5
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_eval_best-5
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_test_best-6
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_eval_best-6
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_test_best-7
+Calcing Rouge Scores...
+Converting files in ../experiments/checkpoint_2019-12-04-16-06-08/summary
+Converting file: ../experiments/checkpoint_2019-12-04-16-06-08/summary/cand_test_best-5
+Traceback (most recent call last):
+  File "word2char.py", line 65, in <module>
+    word2char_file(filepath, os.path.join(target_dir, filename))
+  File "word2char.py", line 37, in word2char_file
+    fdst.write(word2char(line.strip(), remove_tags=True, add_tag_for_rouge=True))
+TypeError: word2char() got an unexpected keyword argument 'add_tag_for_rouge'
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_test_best-0
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_eval_best-0
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_test_best-1
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_eval_best-1
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_test_best-2
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_eval_best-2
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_test_best-3
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_eval_best-3
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_test_best-4
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_eval_best-4
+Calc Rouge: ../experiments/checkpoint_2019-12-04-16-06-08/summary/split/cand_test_best-5
+Traceback (most recent call last):
+  File "evaluate_rouge.py", line 48, in <module>
+    main(args.ckpt_dir, args.epochs)
+  File "evaluate_rouge.py", line 30, in main
+    scores = rouger.get_scores(cands, ref_test, avg=True)
+  File "/home/LAB/maoqr/miniconda3/envs/tb/lib/python3.6/site-packages/rouge/rouge.py", line 94, in get_scores
+    assert(len(hyps) == len(refs))
+AssertionError
